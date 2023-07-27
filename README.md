@@ -1,8 +1,9 @@
 # PFE-Project-App
-an app for association jeunes science Djerba
+An app for Association Jeunes Science Djerba
+
 # YouthScience Management App
 
-![YouthScience Management App](pic.jpg)
+<img src="pic.jpg" alt="YouthScience Management App" width="400">
 
 ## About
 
@@ -21,12 +22,11 @@ The YouthScience Management App is a powerful and user-friendly mobile applicati
 - **Association Updates and News:** Members can stay up-to-date with the latest happenings within the association, celebrating achievements and planning future endeavors.
 
 # Screenshots
-![Screenshot1](pic1.jpg)
-<img src="pic1" width="100">
-![Screenshot2](pic2.jpg)
-<img src="pic2" width="100">
-![Screenshot3](pic3.jpg)
-<img src="pic3" width="100">
+
+<img src="pic1.jpg" alt="Screenshot1" width="200">
+<img src="pic2.jpg" alt="Screenshot2" width="200">
+<img src="pic3.jpg" alt="Screenshot3" width="200">
+
 ## Tech Stack
 
 - Frontend: Ionic Vue.js
