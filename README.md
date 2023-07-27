@@ -3,7 +3,7 @@ An app for Association Jeunes Science Djerba
 
 # YouthScience Management App
 
-<img src="pic.jpg" alt="YouthScience Management App" width="300">
+<img src="pic.jpg" alt="YouthScience Management App" width="100">
 
 ## About
 
