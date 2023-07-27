@@ -3,7 +3,7 @@ An app for Association Jeunes Science Djerba
 
 # YouthScience Management App
 
-<img src="pic.jpg" alt="YouthScience Management App" width="400">
+<img src="pic.jpg" alt="YouthScience Management App" width="300">
 
 ## About
 
@@ -22,11 +22,11 @@ The YouthScience Management App is a powerful and user-friendly mobile applicati
 - **Association Updates and News:** Members can stay up-to-date with the latest happenings within the association, celebrating achievements and planning future endeavors.
 
 # Screenshots
-
-<img src="pic1.jpg" alt="Screenshot1" width="200">
-<img src="pic2.jpg" alt="Screenshot2" width="200">
-<img src="pic3.jpg" alt="Screenshot3" width="200">
-
+<div align="center">
+  <img src="pic1.jpg" alt="Screenshot1" width="200">
+  <img src="pic2.jpg" alt="Screenshot2" width="200">
+  <img src="pic3.jpg" alt="Screenshot3" width="200">
+</div>
 ## Tech Stack
 
 - Frontend: Ionic Vue.js
