@@ -20,11 +20,10 @@ The YouthScience Management App is a powerful and user-friendly mobile applicati
 
 - **Association Updates and News:** Members can stay up-to-date with the latest happenings within the association, celebrating achievements and planning future endeavors.
 
-## Screenshots
+# Screenshots
 ![Screenshot1](pic1.jpg)
 ![Screenshot2](pic2.jpg)
 ![Screenshot3](pic3.jpg)
-![Screenshot4](pic4.jpg)
 ## Tech Stack
 
 - Frontend: Ionic Vue.js
