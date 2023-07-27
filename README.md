@@ -22,8 +22,11 @@ The YouthScience Management App is a powerful and user-friendly mobile applicati
 
 # Screenshots
 ![Screenshot1](pic1.jpg)
+<img src="pic1" width="100">
 ![Screenshot2](pic2.jpg)
+<img src="pic2" width="100">
 ![Screenshot3](pic3.jpg)
+<img src="pic3" width="100">
 ## Tech Stack
 
 - Frontend: Ionic Vue.js
